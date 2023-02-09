@@ -2,8 +2,7 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 
 
-
-<img src="https://camo.githubusercontent.com/387dfeadb44000ddc5be91b9a6ad1e6169e31c532ea5d13ca9604cbbb82d4e74/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d646f6e74667265642673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="DontFred/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dontfred&show_icons=true&locale=en" alt="dontfred" /></p>
 
 - 🔭 I’m currently working on [SilverWeb](https://silverback.ie/)
 
