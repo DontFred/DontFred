@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on [SilverWeb](https://silverback.ie/)
 
-- 📫 How to reach me **mail@frederikwgrimm.de**
+## Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    [github @dontfred] (https://github.com/DontFred)
-    [in Frederik W. Grimm](https://www.linkedin.com/in/frederik-willem-grimm-672a29230/)
-</p>
+[![@DontFred](https://img.shields.io/badge/%40DontFred-black?logo=github&logoColor=white)](https://github.com/DontFred)
+[![Frederik W. Grimm](https://img.shields.io/badge/Frederik_W._Grimm-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/frederik-willem-grimm-672a29230/)
+[![mail@frederikwgrimm.de](https://img.shields.io/badge/mail%40frederikwgrimm.de-red?logo=Mail.Ru&logoColor=white)](mailto:mail@frederikwgrimm.de)
 
 
 
