@@ -69,16 +69,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dontfred/dontfred/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/68DTKW">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=68DTKW&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vypirmosg5a6tkbk5mygsr247i" alt="Spotify recently played" />
   </a>
 </div>
-
 ###
