@@ -57,22 +57,14 @@
 
 ###
 
-
-
-###
-
-
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/68DTKW">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vypirmosg5a6tkbk5mygsr247i" alt="Spotify recently played" />
   </a>
   <div>
-<h3 align="center">//@ts-ignore - Live counter: 0</h3>
     <div align="center">
-  <img height="150" src="https://i.imgflip.com/6bo42l.jpg"  />
-</div>
+      <img height="150" src="https://i.imgflip.com/6bo42l.jpg"  />
+    </div>
+     <h3 align="center">//@ts-ignore - Live counter: 0</h3>
   </div>
 </div>
