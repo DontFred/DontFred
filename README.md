@@ -57,13 +57,9 @@
 
 ###
 
-<div align="between">
+<div align="center">
   <a href="https://open.spotify.com/user/68DTKW">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vypirmosg5a6tkbk5mygsr247i" alt="Spotify recently played" width="400" />
-  </a>
-  <a href="https://i.imgflip.com/6bo42l.jpg">
-  <img src="https://github-readme-stats.vercel.app/api?username=dontfred&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <b>//@ts-ignore - Live counter: 0</b>
   </a>
   <div style="width: 400px;">
     <div align="center">
