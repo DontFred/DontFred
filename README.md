@@ -65,4 +65,3 @@ I started at the age of 11 in school with IT courses, at 16 I beginn as a freela
     </td>
   </tr>
 </table>
-      ![Black SilverWeb Card](https://github-readme-stats.vercel.app/api/pin?username=silverback-eu\&repo=silverweb\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
