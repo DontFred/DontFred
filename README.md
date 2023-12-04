@@ -42,7 +42,7 @@ I started at the age of 11 in school with IT courses, at 16 I beginn as a freela
 
 ## Aktuell
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a style="width: 50%" href="https://open.spotify.com/user/68DTKW">
