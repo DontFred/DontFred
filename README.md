@@ -25,7 +25,7 @@ I did a dual education as a salesman in IT, as the valedictorian (the top of the
 
 #### How long do you work in IT?
 
-I started at the age of 11 in school with IT courses, at 16 I beginn as a freelancer and since 2022 I'm employeed in companies and technical head.
+I started at the age of 11 in school with IT courses, at 16 I beginn as a freelancer and since 2022 I'm employeed in companies and be the technical head.
 
 
 
