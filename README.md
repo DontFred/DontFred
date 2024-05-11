@@ -1,16 +1,16 @@
 
 # README.md @dontfred
 
-The README is there that you can see who I am.
+The README is there so that you can see who I am.
 
 
 
 ## 🚀 About Me
-I'm a full stack developer working for @silverback-eu and the director of @grimmintegrations. My real name is Frederik Grimm, but everybody just calls me Freddy, even my grandma. I'm lived in France and Ireland, and was born in Hamburg, Germany.
+I'm a full-stack developer working for @silverback-eu and the director of @grimmintegrations. My real name is Frederik Grimm, but everybody just calls me Freddy, even my grandma. I lived in France and Ireland and was born in Hamburg, Germany.
 
 
 ## 🛠 Skills
-Project management, Product managment, Team management, JavaScript, HTML, CSS, JSX, TypeScript <3, React based Frameworks, Linux and Docker
+Project management, Product management, Team management, JavaScript, HTML, CSS, JSX, TypeScript <3, React-based Frameworks, Linux, and Docker
 
 
 ## FAQ
@@ -25,7 +25,7 @@ I did a dual education as a salesman in IT, as the valedictorian (the top of the
 
 #### How long do you work in IT?
 
-I started at the age of 11 in school with IT courses, at 16 I beginn as a freelancer and since 2022 I'm employeed in companies and be the technical head.
+I started at the age of 11 in school with IT courses, and at 16 I began as a freelancer since 2022 I've been employed in companies and been the technical head.
 
 
 
