@@ -17,11 +17,11 @@ Project management, Product management, Team management, JavaScript, HTML, CSS, 
 
 #### How old are you?
 
-I'm 20 years old.
+I'm 21 years old.
 
 #### What did you study?
 
-I did a dual education as a salesman in IT, as the valedictorian (the top of the class) and class spokesman.
+I did a dual education as a salesman in IT, as the valedictorian (the top of the class) and class spokesman. Nowadays I'm studying economics and computer since
 
 #### How long do you work in IT?
 
