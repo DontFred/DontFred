@@ -6,7 +6,7 @@ The README is there so that you can see who I am.
 
 
 ## 🚀 About Me
-I'm a full-stack developer working for @silverback-eu and the director of @grimmintegrations. My real name is Frederik Grimm, but everybody just calls me Freddy, even my grandma. I lived in France and Ireland and was born in Hamburg, Germany.
+I'm a full-stack developer and the director of @grimmintegrations. My real name is Frederik Grimm, but everybody just calls me Freddy, even my grandma. I lived in France, Poland and Ireland and was born in Hamburg, Germany.
 
 
 ## 🛠 Skills
@@ -21,11 +21,11 @@ I'm 21 years old.
 
 #### What did you study?
 
-I did a dual education as a salesman in IT, as the valedictorian (the top of the class) and class spokesman. Nowadays I'm studying economics and computer since
+I did a dual education as a salesman in IT, as the valedictorian (the top of the class) and class spokesman. Nowadays I'm studying economics and computer science
 
 #### How long do you work in IT?
 
-I started at the age of 11 in school with IT courses, and at 16 I began as a freelancer since 2022 I've been employed in companies and been the technical head.
+I started at the age of 11 in school with IT courses, and at 16 I began as a freelancer, since 2022 I've been employed in companies and been the technical head.
 
 
 
@@ -33,11 +33,9 @@ I started at the age of 11 in school with IT courses, and at 16 I began as a fre
 
 ## 📚 Fav. Tech Stack
 
-- **Mono**: Turborepo
-- **Tooling**: Bun
-- **Framework**: Next
-- **Styling**: Tailwind
-- **UI**: shadcn/ui
+- **Backend**: Golang
+- **Frontend**: NextJS
+- **Hosting**: Docker & k3s
 
 
 ## Aktuell
